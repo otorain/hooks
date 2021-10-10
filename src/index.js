@@ -5,4 +5,4 @@ const ReactDemo = () => (
   <h1>第一个 react npm 组件</h1>
 )
 
-export default ReactDemo;
+export { ReactDemo }
