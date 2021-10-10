@@ -1,0 +1,38 @@
+{
+  "name": "@mini-geek/hooks",
+  "version": "1.0.0",
+  "description": "custom hooks by mini-geek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otorain/hooks.git"
+  },
+  "keywords": [
+    "custom",
+    "hooks",
+    "by",
+    "mini-geek"
+  ],
+  "author": "mini-geek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otorain/hooks/issues"
+  },
+  "homepage": "https://github.com/otorain/hooks#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^5.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  }
+}
