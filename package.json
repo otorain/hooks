@@ -1,6 +1,6 @@
 {
   "name": "@mini-geek/hooks",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "custom hooks by mini-geek",
   "main": "lib/index.js",
   "scripts": {
