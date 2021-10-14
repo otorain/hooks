@@ -1,6 +1,6 @@
 
-import ReactDemo from "./src";
+import {useInput} from "./lib";
 
 module.exports = {
-  ReactDemo
+  useInput
 }
